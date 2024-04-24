@@ -1,5 +1,5 @@
-# bogsy-s-dice-bot
-Bogsy's Dice Bot is a dice roller for Discord.
+# Bogsy's Dice bot
+It's a dice roller for Discord.
 
 ## Get Bogsy's Dice Bot
 Invite it to your server: https://discord.com/api/oauth2/authorize?client_id=812347275698634762&permissions=274945026048&scope=applications.commands%20bot
